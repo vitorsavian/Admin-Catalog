@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.fullcycle.www.infrastructure.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-03T02:44:53" hostname="SoloReader" time="0.008">
-  <properties/>
-  <testcase name="testMain()" classname="com.fullcycle.www.infrastructure.MainTest" time="0.008"/>
-  <system-out><![CDATA[Hello world!
-com.fullcycle.www.domain.Category@6c1a5b54
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
